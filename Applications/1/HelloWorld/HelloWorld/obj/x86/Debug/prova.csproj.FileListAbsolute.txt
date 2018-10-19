@@ -1,0 +1,6 @@
+/home/thecave3/Projects/prova/prova/bin/Debug/prova.exe
+/home/thecave3/Projects/prova/prova/bin/Debug/prova.pdb
+/home/thecave3/Projects/prova/prova/obj/x86/Debug/prova.csprojResolveAssemblyReference.cache
+/home/thecave3/Projects/prova/prova/obj/x86/Debug/prova.csproj.CoreCompileInputs.cache
+/home/thecave3/Projects/prova/prova/obj/x86/Debug/prova.exe
+/home/thecave3/Projects/prova/prova/obj/x86/Debug/prova.pdb
