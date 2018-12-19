@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Le informazioni generali relative a un assembly sono controllate dal seguente 
 // set di attributi. Modificare i valori di questi attributi per modificare le informazioni
 // associate a un assembly.
-[assembly: AssemblyTitle("MidTerm")]
+[assembly: AssemblyTitle("Assignment3")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MidTerm")]
+[assembly: AssemblyProduct("Assignment3")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
-[assembly: Guid("962aa2d5-856c-43e7-99e3-6d27084975da")]
+[assembly: Guid("aa2a7e9d-8100-4c6c-bb23-b2b9ec451a6d")]
 
 // Le informazioni sulla versione di un assembly sono costituite dai seguenti quattro valori:
 //

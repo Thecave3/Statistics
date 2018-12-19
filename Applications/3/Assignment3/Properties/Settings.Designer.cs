@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MidTerm.Properties
+namespace Assignment3.Properties
 {
 
 
